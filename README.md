@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/e-kalibro/e-kalibro/main/Profile.png" width="150" alt="E-Kalibro logo" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:013D26,100:04663D&height=220&section=header&text=E-KALIBRO&fontSize=72&fontColor=EAB625&fontAlignY=38&animation=fadeIn&desc=Digital%20Library%20Management%20System%20%E2%80%A2%20Metro%20Dagupan%20Colleges&descAlignY=58&descSize=17&descColor=FFFFFF" alt="E-Kalibro banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:013D26,100:04663D&height=220&section=header&text=E-KALIBRO&fontSize=72&fontColor=EAB625&fontAlignY=38&animation=fadeIn&desc=Smart%20Library%20Management%20System%20%E2%80%A2%20Metro%20Dagupan%20Colleges&descAlignY=58&descSize=17&descColor=FFFFFF" alt="E-Kalibro banner" />
 
 <a href="https://github.com/e-kalibro/e-kalibro">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=EAB625&background=00000000&center=true&vCenter=true&width=700&lines=Welcome+to+E-Kalibro;A+Smarter+Library+for+MDC;Built+with+Svelte+4+%E2%9A%A1;Cataloging+%E2%80%A2+Circulation+%E2%80%A2+Insights" alt="Typing SVG" />
@@ -12,27 +12,26 @@
 <br/>
 
 <img src="https://img.shields.io/badge/INSTITUTION-METRO%20DAGUPAN%20COLLEGES-04663D?style=for-the-badge&labelColor=013D26" />
-<img src="https://img.shields.io/badge/TYPE-CASE%20STUDY-EAB625?style=for-the-badge&labelColor=013D26" />
-<img src="https://img.shields.io/badge/STACK-SVELTE%204-04663D?style=for-the-badge&logo=svelte&logoColor=EAB625&labelColor=013D26" />
+<img src="https://img.shields.io/badge/COURSE-BSCS-EAB625?style=for-the-badge&labelColor=013D26" />
+<img src="https://img.shields.io/badge/SUBJECT-SOFTWARE%20ENGINEERING%202-04663D?style=for-the-badge&labelColor=013D26" />
 
 <br/>
 
 <img src="https://img.shields.io/github/stars/e-kalibro/e-kalibro?style=for-the-badge&color=EAB625&labelColor=013D26&logo=github&logoColor=white" />
 <img src="https://img.shields.io/github/forks/e-kalibro/e-kalibro?style=for-the-badge&color=04663D&labelColor=013D26&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/issues/e-kalibro/e-kalibro?style=for-the-badge&color=EAB625&labelColor=013D26" />
-<img src="https://img.shields.io/github/last-commit/e-kalibro/e-kalibro?style=for-the-badge&color=04663D&labelColor=013D26" />
-<img src="https://img.shields.io/github/license/e-kalibro/e-kalibro?style=for-the-badge&color=EAB625&labelColor=013D26" />
+<img src="https://img.shields.io/github/last-commit/e-kalibro/e-kalibro?style=for-the-badge&color=EAB625&labelColor=013D26" />
+<img src="https://img.shields.io/github/license/e-kalibro/e-kalibro?style=for-the-badge&color=04663D&labelColor=013D26" />
 
 <br/><br/>
 
+<a href="https://github.com/e-kalibro/e-kalibro">
+<img src="https://img.shields.io/badge/📂_View_Repository-04663D?style=for-the-badge&labelColor=013D26" />
+</a>
 <a href="https://github.com/e-kalibro/e-kalibro/issues/new?labels=bug&title=%5BBUG%5D">
-<img src="https://img.shields.io/badge/🐞_Report_Bug-04663D?style=for-the-badge&labelColor=013D26" />
+<img src="https://img.shields.io/badge/🐞_Report_Bug-EAB625?style=for-the-badge&labelColor=013D26" />
 </a>
 <a href="https://github.com/e-kalibro/e-kalibro/issues/new?labels=enhancement&title=%5BFEATURE%5D">
-<img src="https://img.shields.io/badge/💡_Request_Feature-EAB625?style=for-the-badge&labelColor=013D26" />
-</a>
-<a href="https://github.com/e-kalibro/e-kalibro/wiki">
-<img src="https://img.shields.io/badge/📘_Documentation-04663D?style=for-the-badge&labelColor=013D26" />
+<img src="https://img.shields.io/badge/💡_Request_Feature-04663D?style=for-the-badge&labelColor=013D26" />
 </a>
 
 </div>
@@ -42,121 +41,100 @@
 ## 📑 Table of Contents
 
 - [Who We Are](#-who-we-are)
-- [About the Project](#-about-e-kalibro)
-- [Core Features](#-core-features)
-- [Tech Stack](#-tech-stack)
-- [Brand Palette](#-brand-palette)
+- [Our Project](#-our-project)
+- [The Team](#-the-team)
+- [Adviser & Faculty](#-adviser--faculty)
 - [Account Insights](#-account-insights)
-- [Contributors](#-contributors)
 - [License](#-license)
 
 <br/>
 
 ## 👋 Who We Are
 
-This account is the **official home of E-Kalibro** — it doesn't host a portfolio of unrelated projects, it exists for one purpose: to build, document, and showcase our capstone case study for **Metro Dagupan Colleges**. Everything below — the code, the diagrams, the stats — belongs to this one project.
+This is the **official GitHub home of E-Kalibro** — a student research team from the **College of Computer Science** at **Metro Dagupan Colleges, Inc.** We exist for one purpose: to design, build, and document our capstone case study for Software Engineering 2.
 
-<br/>
-
-## 📖 About E-Kalibro
-
-**E-Kalibro** is a web-based **Library Management System** developed as an academic case study for **Metro Dagupan Colleges (MDC)**. It reimagines the day-to-day work of running a campus library — cataloging titles, tracking who borrowed what and when it's due, and giving staff the visibility they need — as a fast, focused web app instead of a stack of logbooks and spreadsheets.
-
-Built with **Svelte 4**, E-Kalibro is designed around three people: the **student** who just wants to find a book, the **librarian** who needs the circulation desk to move quickly, and the **administrator** who needs to see the collection from above.
+Everything in this organization — the code, the diagrams, the documentation — belongs to a single project: a smart, web-based Library Management System built for MDC.
 
 <div align="center">
 
 | | |
 |---|---|
-| 🏫 **Institution** | Metro Dagupan Colleges |
-| 🧩 **Domain** | Library Management System |
-| 📁 **Project Type** | Capstone / Case Study |
-| ⚙️ **Frontend** | Svelte 4 |
+| 🏫 **Institution** | Metro Dagupan Colleges, Inc. |
+| 🎓 **Program** | Bachelor of Science in Computer Science |
+| 📚 **Subject** | Software Engineering 2 |
+| 📅 **Academic Year** | First Semester, 2025–2026 |
 | 📌 **Status** | 🟢 Active Development |
 
 </div>
 
 <br/>
 
-## ✨ Core Features
+## 📖 Our Project
+
+**E-Kalibro** is a web-based Smart Library Management System developed as a capstone case study for the MDC College Library. It reimagines the day-to-day work of running a campus library — cataloging titles, tracking borrowed materials, managing reservations, and giving staff the visibility they need — as a fast, focused web application instead of a stack of logbooks and spreadsheets.
+
+Built with **Svelte 4**, the system is designed around three users: the **student** who just wants to find a book, the **librarian** who needs the circulation desk to move quickly, and the **administrator** who needs to see the collection from above.
+
+> 📂 Head to the [**e-kalibro/e-kalibro**](https://github.com/e-kalibro/e-kalibro) repository to see the full project — features, tech stack, setup guide, and documentation.
+
+<br/>
+
+## 👥 The Team
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📖 Catalog Management
-Add, edit, and organize MDC's entire collection with rich, searchable metadata.
-
+<td align="center" width="200">
+<img src="https://ui-avatars.com/api/?name=Brent+Kenneth&background=013D26&color=EAB625&size=80&font-size=0.33&bold=true" width="80" style="border-radius:50%" /><br/>
+<b>Brent Kenneth O. Abrazaldo</b><br/>
+<sub>BSCS · MDC</sub><br/>
+<a href="https://github.com/brentkennetha"><img src="https://img.shields.io/badge/-GitHub-04663D?style=flat-square&logo=github&logoColor=white" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 🔄 Circulation Desk
-Streamlined borrowing, returns, and renewals with real-time copy tracking.
-
+<td align="center" width="200">
+<img src="https://ui-avatars.com/api/?name=Joseph+Benjamin&background=013D26&color=EAB625&size=80&font-size=0.33&bold=true" width="80" style="border-radius:50%" /><br/>
+<b>Joseph Benjamin R. De Asis</b><br/>
+<sub>BSCS · MDC</sub><br/>
+<a href="https://github.com/josephdeasis"><img src="https://img.shields.io/badge/-GitHub-04663D?style=flat-square&logo=github&logoColor=white" /></a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 OPAC Search
-A fast, student-facing catalog so anyone can find a title in seconds.
-
+<td align="center" width="200">
+<img src="https://ui-avatars.com/api/?name=Kristel+Ann&background=013D26&color=EAB625&size=80&font-size=0.33&bold=true" width="80" style="border-radius:50%" /><br/>
+<b>Kristel Ann M. Gabriel</b><br/>
+<sub>BSCS · MDC</sub><br/>
+<a href="https://github.com/kristelanngabriel"><img src="https://img.shields.io/badge/-GitHub-04663D?style=flat-square&logo=github&logoColor=white" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 🔔 Smart Notifications
-Automated due-date reminders and overdue alerts for borrowers.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛂 Role-Based Access
-Tailored views and permissions for students, faculty, librarians, and admins.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Analytics Dashboard
-Borrowing trends and collection insights to support library decisions.
-
+<td align="center" width="200">
+<img src="https://ui-avatars.com/api/?name=Angelica+Vergara&background=013D26&color=EAB625&size=80&font-size=0.33&bold=true" width="80" style="border-radius:50%" /><br/>
+<b>Angelica B. Vergara</b><br/>
+<sub>BSCS · MDC</sub><br/>
+<a href="https://github.com/angelicavergara"><img src="https://img.shields.io/badge/-GitHub-04663D?style=flat-square&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack
+<a href="https://github.com/e-kalibro/e-kalibro/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=e-kalibro/e-kalibro&columns=8" alt="Contributors" />
+</a>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=svelte,vite,javascript,html,css,figma,git,github&theme=dark" />
+<sub>Contribution graph auto-updates as the team pushes commits.</sub>
 
 </div>
 
-| Layer | Tools |
-|---|---|
-| **Frontend** | Svelte 4 · Vite · JavaScript (ES6+) · HTML5 · CSS3 |
-| **Design** | Figma (UI/UX prototyping) |
-| **Backend & Database** | _add your stack here — e.g. Node.js, Firebase, Supabase, or a REST API_ |
-| **Tooling** | Git & GitHub · npm |
-
 <br/>
 
-## 🎨 Brand Palette
-
-Colors lifted directly from the E-Kalibro mark — MDC green and gold.
+## 🎓 Adviser & Faculty
 
 <div align="center">
 
-| Swatch | Name | Hex |
-|---|---|---|
-| ![](https://img.shields.io/badge/-04663D?style=flat-square) | MDC Green | `#04663D` |
-| ![](https://img.shields.io/badge/-013D26?style=flat-square) | Deep Forest | `#013D26` |
-| ![](https://img.shields.io/badge/-EAB625?style=flat-square) | MDC Gold | `#EAB625` |
-| ![](https://img.shields.io/badge/-F7D560?style=flat-square) | Light Gold | `#F7D560` |
-| ![](https://img.shields.io/badge/-FFFFFF?style=flat-square&logoColor=black) | Pure White | `#FFFFFF` |
+| Role | Name |
+|---|---|
+| 📋 **Thesis Adviser** | Dr. Mark Louie R. Soriano, CISM, MIT, Ph.D |
+| 🏛️ **Program Coordinator, BSCS** | Prof. Emil A. Agpoon, LPT, MBA |
+| 👩‍🏫 **Panel Member** | Mrs. Jova V. Aquino, LPT |
+| 👩‍🏫 **Panel Member** | Mrs. Cyndirella O. Iyog, LPT |
+| 👨‍🏫 **Panel Chairman** | Mr. Juanito M. Malicdem, LPT |
 
 </div>
 
@@ -171,31 +149,9 @@ Colors lifted directly from the E-Kalibro mark — MDC green and gold.
 
 <br/><br/>
 
-**Contribution activity**
-
-<img src="https://api.star-history.com/svg?repos=e-kalibro/e-kalibro&type=Date" alt="Star History" width="600"/>
-
-<sub>Some org-level metrics may render sparsely until the account has more public activity — that's expected for a new case study repo.</sub>
-
-</div>
-
-<br/>
-
-## 🤝 Contributors
-
-<div align="center">
-
-<a href="https://github.com/e-kalibro/e-kalibro/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=e-kalibro/e-kalibro&columns=8" alt="Contributors" />
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=e-kalibro&style=for-the-badge&color=04663D&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
-This avatar grid pulls live from the repo's actual contributors — no manual upkeep needed as the team grows.
 
 <br/>
 
@@ -205,15 +161,13 @@ This avatar grid pulls live from the repo's actual contributors — no manual up
 
 <img src="https://img.shields.io/github/license/e-kalibro/e-kalibro?style=for-the-badge&color=EAB625&labelColor=013D26" />
 
-<sub>Add a LICENSE file to the repo to have this badge reflect it automatically.</sub>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-Made with 💚💛 for **Metro Dagupan Colleges**
+Made with 💚💛 for **Metro Dagupan Colleges, Inc.**
 
 [⬆ Back to top](#top)
 
