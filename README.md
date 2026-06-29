@@ -44,12 +44,9 @@
 - [Who We Are](#-who-we-are)
 - [About the Project](#-about-e-kalibro)
 - [Core Features](#-core-features)
-- [System Architecture](#-system-architecture)
-- [Borrowing Workflow](#-borrowing-workflow)
 - [Tech Stack](#-tech-stack)
 - [Brand Palette](#-brand-palette)
 - [Account Insights](#-account-insights)
-- [Roadmap](#-roadmap)
 - [Contributors](#-contributors)
 - [License](#-license)
 
@@ -130,56 +127,6 @@ Borrowing trends and collection insights to support library decisions.
 
 <br/>
 
-## 🏛️ System Architecture
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#04663D','primaryTextColor':'#ffffff','primaryBorderColor':'#EAB625','lineColor':'#EAB625','secondaryColor':'#013D26','tertiaryColor':'#F7D560','fontSize':'14px'}}}%%
-flowchart TD
-    S[🎓 Students] --> APP
-    F[👨‍🏫 Faculty] --> APP
-    L[📚 Librarians] --> APP
-    A[🛠️ Admin] --> APP
-
-    APP[E-Kalibro Web App<br/>Svelte 4]
-
-    APP --> M1[📖 Catalog Module]
-    APP --> M2[🔄 Circulation Module]
-    APP --> M3[🔔 Notification Module]
-    APP --> M4[📊 Reports & Analytics]
-
-    M1 --> DB[(MDC Library Database)]
-    M2 --> DB
-    M3 --> DB
-    M4 --> DB
-```
-
-<br/>
-
-## 🔄 Borrowing Workflow
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#04663D','primaryTextColor':'#ffffff','primaryBorderColor':'#EAB625','lineColor':'#EAB625','actorBorder':'#04663D','actorBkg':'#EAB625','actorTextColor':'#013D26'}}}%%
-sequenceDiagram
-    actor Student
-    participant App as E-Kalibro
-    participant Catalog
-    participant Circulation
-    participant DB as Database
-
-    Student->>App: Search for a title
-    App->>Catalog: Query catalog
-    Catalog->>DB: Check availability
-    DB-->>Catalog: Status: Available
-    Catalog-->>App: Show result
-    Student->>App: Request to borrow
-    App->>Circulation: Create borrow record
-    Circulation->>DB: Update copy status
-    DB-->>Circulation: Confirmed
-    Circulation-->>Student: Due date issued
-```
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -231,22 +178,6 @@ Colors lifted directly from the E-Kalibro mark — MDC green and gold.
 <sub>Some org-level metrics may render sparsely until the account has more public activity — that's expected for a new case study repo.</sub>
 
 </div>
-
-<br/>
-
-## 🗺️ Roadmap
-
-- [x] Requirements gathering & case study analysis
-- [x] System design & ERD
-- [x] UI/UX prototyping (Figma)
-- [ ] Core catalog module
-- [ ] Circulation (borrow / return) module
-- [ ] Fines & notifications
-- [ ] Admin analytics dashboard
-- [ ] User acceptance testing with MDC Library staff
-- [ ] Deployment
-
-<sub>Update this checklist as the project moves forward — it reflects on the README the moment you edit it.</sub>
 
 <br/>
 
