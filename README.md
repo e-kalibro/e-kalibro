@@ -41,17 +41,23 @@
 
 ## 📑 Table of Contents
 
-- [About E-Kalibro](#-about-e-kalibro)
+- [Who We Are](#-who-we-are)
+- [About the Project](#-about-e-kalibro)
 - [Core Features](#-core-features)
 - [System Architecture](#-system-architecture)
 - [Borrowing Workflow](#-borrowing-workflow)
 - [Tech Stack](#-tech-stack)
 - [Brand Palette](#-brand-palette)
-- [Repository Insights](#-repository-insights)
+- [Account Insights](#-account-insights)
 - [Roadmap](#-roadmap)
-- [Getting Started](#-getting-started)
 - [Contributors](#-contributors)
 - [License](#-license)
+
+<br/>
+
+## 👋 Who We Are
+
+This account is the **official home of E-Kalibro** — it doesn't host a portfolio of unrelated projects, it exists for one purpose: to build, document, and showcase our capstone case study for **Metro Dagupan Colleges**. Everything below — the code, the diagrams, the stats — belongs to this one project.
 
 <br/>
 
@@ -209,7 +215,7 @@ Colors lifted directly from the E-Kalibro mark — MDC green and gold.
 
 <br/>
 
-## 📊 Repository Insights
+## 📊 Account Insights
 
 <div align="center">
 
@@ -241,24 +247,6 @@ Colors lifted directly from the E-Kalibro mark — MDC green and gold.
 - [ ] Deployment
 
 <sub>Update this checklist as the project moves forward — it reflects on the README the moment you edit it.</sub>
-
-<br/>
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/e-kalibro/e-kalibro.git
-cd e-kalibro
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
-
-<sub>Swap in your actual backend/env setup once it's finalized.</sub>
 
 <br/>
 
